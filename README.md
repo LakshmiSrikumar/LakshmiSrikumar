@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/lakshmisrikumar">
     <!-- Increased height from 40 to 60 so text doesn't get cut off -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+ML+Enthusiast;%F0%9F%8C%9F+Building+cool+things+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=110&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+ML+Enthusiast;%20;%F0%9F%8C%9F+Building+cool+things+with+code" alt="Typing SVG"  />
   </a>
 </div>
 
