@@ -1,20 +1,118 @@
-<h1 align="center">Hello 👋, I'm Lakshmi Srikumar</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<!-- ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lakshmi%20Srikumar&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=From%20India%20🇮🇳&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmisrikumar&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmisrikumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmisrikumar" alt="lakshmisrikumar" /></a> </p>
+<!-- ANIMATED TYPING SVG -->
+<div align="center">
+  <a href="https://github.com/lakshmisrikumar">
+    <!-- Increased height from 40 to 60 so text doesn't get cut off -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+ML+Enthusiast;%F0%9F%8C%9F+Building+cool+things+with+code" alt="Typing SVG" />
+  </a>
+</div>
 
-- 📫 How to reach me **lakshmi.in.work@gmail.com**
+<!-- Added spacing here to separate the text from the badges -->
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lakshmi-srikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi srikumar" height="30" width="40" /></a>
+<!-- PROFILE VIEWS & FOLLOWERS BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshmisrikumar&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="lakshmisrikumar views" />
+  <img src="https://img.shields.io/github/followers/lakshmisrikumar?label=Followers&style=for-the-badge&color=6C63FF" alt="followers" />
+</div>
+<br>
+
+<!-- SOCIAL BADGES - MODERN STYLE -->
+<div align="center">
+  <a href="https://linkedin.com/in/lakshmi-srikumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lakshmi.in.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
+
+<!-- ANIMATED ABOUT ME SECTION -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+
+```yaml
+name: Lakshmi Srikumar
+location: India 🇮🇳
+education: Computer Science
+
+interests:
+  - Full Stack Development
+  - Machine Learning & AI
+  - Android Development
+  - Computer Vision
+
+currently_exploring:
+  - Deep Learning
+  - Cloud Technologies
+  - System Design
+
+fun_fact: "I debug with coffee ☕ and curiosity 🔍"
+```
+
+<br clear="right"/>
+
+- 🔭 I'm currently working on **exciting projects**
+- 🌱 I'm learning **advanced ML & Cloud Architecture**
+- 💬 Ask me about **Python, JavaScript, ML, Android**
+- 📫 Reach me at **lakshmi.in.work@gmail.com**
+- ⚡ Fun fact: **Code is poetry written in logic**
+
+---
+
+<!-- TECH STACK WITH SKILL ICONS -->
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>👩‍💻 Languages</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,kotlin,html,css" />
+</p>
+</details>
+
+<details open>
+<summary><b>🧩 Frameworks & Libraries</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs,tensorflow,opencv" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Tools</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,unity,androidstudio" />
+</p>
+</details>
+
+---
+
+
+
+<!-- Metric SECTION - WITH THEME -->
+## 🏆 GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/lakshmisrikumar?base=header,activity,community,repositories,metadata&theme=tokyonight" alt="GitHub Metrics" width="40%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshmisrikumar&show_icons=true&locale=en" alt="lakshmisrikumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmisrikumar&" alt="lakshmisrikumar" /></p>
+
+
+
+<!-- GITHUB Contribution -  -->
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmisrikumar&theme=tokyo-night&hide_border=true&radius=8&area=true" width="95%" alt="Activity Graph"/>
+</p>
